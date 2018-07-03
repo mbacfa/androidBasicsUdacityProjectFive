@@ -39,7 +39,7 @@ public class MoscowFragment extends Fragment {
 
         // Create an {@link PlaceAdapter}, whose data source is a list of {@link Place}s. The
         // adapter knows how to create list items for each item in the list.
-        PlaceAdapter adapter = new PlaceAdapter(getActivity(), places, R.color.category_family);
+        PlaceAdapter adapter = new PlaceAdapter(getActivity(), places, R.color.category_moscow);
 
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
         // There should be a {@link ListView} with the view ID called list, which is declared in the

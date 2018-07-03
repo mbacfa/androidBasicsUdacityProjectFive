@@ -54,11 +54,11 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
-            return mContext.getString(R.string.category_sochi);
+            return mContext.getString(R.string.category_samara);
         } else if (position == 1) {
             return mContext.getString(R.string.category_moscow);
         } else if (position == 2) {
-            return mContext.getString(R.string.category_samara);
+            return mContext.getString(R.string.category_sochi);
         } else {
             return mContext.getString(R.string.category_volgograd);
         }
