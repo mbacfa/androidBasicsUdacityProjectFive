@@ -48,7 +48,7 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
 
         // Find the TextView in the list_item.xml layout with the ID name_text_view.
         TextView nameTextView = (TextView) listItemView.findViewById(R.id.name_text_view);
-        // Get the name from the currentWord object and set this text on
+        // Get the name from the currentPlace object and set this text on
         // the name TextView.
         nameTextView.setText(currentPlace.getPlaceNameId());
 
