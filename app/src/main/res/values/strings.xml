@@ -12,49 +12,49 @@
 
     <string name="moscow_stbasil">St Basil\'s Cathedral</string>
 
-    <string name="details_moscow_stbasil">Krasnaya Sq., 2, Moscow 109012</string>
+    <string name="details_moscow_stbasil">Krasnaya Sq., 2, 109012</string>
 
     <string name="moscow_tretyakov_gallery">The State Tretyakov Gallery</string>
 
-    <string name="details_moscow_tretyakov_gallery">Lavrushinskiy ln, 10, Moscow 119017</string>
+    <string name="details_moscow_tretyakov_gallery">Lavrushinskiy ln, 10, 119017</string>
 
     <string name="moscow_red_square">Red Square</string>
 
-    <string name="details_moscow_red_square">Krasnaya ploshchad, Moscow</string>
+    <string name="details_moscow_red_square">Krasnaya ploshchad</string>
 
     <string name="moscow_victory_museum">Victory Museum</string>
 
-    <string name="details_moscow_victory_museum">Metro Park Pobedy, Moscow 121170</string>
+    <string name="details_moscow_victory_museum">Metro Park Pobedy, 121170</string>
 
 
     <string name="sochi_rosa_khutor">Rosa Khutor</string>
 
-    <string name="details_sochi_rosa_khutor">Olimpiyskaya St., 35, Esto-Sadok, Sochi 354392</string>
+    <string name="details_sochi_rosa_khutor">Olimpiyskaya St., 35, Esto-Sadok, 354392</string>
 
     <string name="sochi_dva_yakorya">Fountain Dva Yakorya</string>
 
-    <string name="details_sochi_dva_yakorya">Komsomolskiy Park, Sochi</string>
+    <string name="details_sochi_dva_yakorya">Komsomolskiy Park</string>
 
     <string name="sochi_pushkin_monument">Pushkin Monument</string>
 
-    <string name="details_sochi_pushkin_monument">Primorskaya St., 1, Sochi 354000</string>
+    <string name="details_sochi_pushkin_monument">Primorskaya St., 1, 354000</string>
 
     <string name="sochi_skating_palace">Iceberg Skating Palace</string>
 
-    <string name="details_sochi_skating_palace">Coastal cluster, Adler, Sochi 354375</string>
+    <string name="details_sochi_skating_palace">Coastal cluster, Adler, 354375</string>
 
 
     <string name="samara_embankment">Samara Embankment</string>
 
-    <string name="details_samara_embankment">Maksima Gorkogo St., Samara</string>
+    <string name="details_samara_embankment">Maksima Gorkogo St., 443100</string>
 
     <string name="samara_glory_monument">Glory Monument</string>
 
-    <string name="details_samara_glory_monument">Slavy Sq., Samara</string>
+    <string name="details_samara_glory_monument">Slavy Sq., 443112</string>
 
     <string name="samara_chapaev_monument">Chapaev monument</string>
 
-    <string name="details_samara_chapaev_monument">pl. Chapaeva, Samara 443010</string>
+    <string name="details_samara_chapaev_monument">pl. Chapaeva, 443010</string>
 
     <string name="samara_observation_point">Observation Point</string>
 
@@ -63,19 +63,19 @@
 
     <string name="volgograd_the_motherland_calls_sculture">The Motherland Calls Sculpture</string>
 
-    <string name="details_volgograd_the_motherland_calls_sculture">Mamaev Kurgan, Volgograd 400005</string>
+    <string name="details_volgograd_the_motherland_calls_sculture">Mamaev Kurgan, 400005</string>
 
     <string name="volgograd_mamaev_hill_monuments">Mamayev Hill Monuments</string>
 
-    <string name="details_volgograd_mamaev_hill_monuments">Mamayev Kurgan, Volgograd 400005</string>
+    <string name="details_volgograd_mamaev_hill_monuments">Mamayev Kurgan, 400005</string>
 
     <string name="volgograd_hall_of_military_glory">Hall of Military Glory</string>
 
-    <string name="details_volgograd_hall_of_military_glory">Mamayev Kurgan, Volgograd 400005</string>
+    <string name="details_volgograd_hall_of_military_glory">Mamayev Kurgan, 400005</string>
 
     <string name="volgograd_pobedi_park">Pobedi Park</string>
 
-    <string name="details_volgograd_pobedi_park">Central Embankment, Volgograd</string>
+    <string name="details_volgograd_pobedi_park">Central Embankment</string>
 
 
 </resources>
